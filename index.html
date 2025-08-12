@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieMatcher - Find Your Perfect Movie</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <h1>🎬 MovieMatcher</h1>
+                <p>Discover your next favorite movie</p>
+            </div>
+        </header>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-content">
+                <h2>Welcome to the Ultimate Movie Discovery Experience</h2>
+                <p>Tell us about yourself and your movie preferences, and we'll recommend the perfect films for you!</p>
+            </div>
+            <div class="movie-posters">
+                <div class="poster-grid">
+                    <img src="https://image.tmdb.org/t/p/w300/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" alt="Avengers" class="poster">
+                    <img src="https://image.tmdb.org/t/p/w300/6CoRTJTmijhBLJTUNoVSUNxZMEI.jpg" alt="Interstellar" class="poster">
+                    <img src="https://image.tmdb.org/t/p/w300/or06FN3Dka5tukK1e9sl16pB3iy.jpg" alt="Casablanca" class="poster">
+                    <img src="https://image.tmdb.org/t/p/w300/adOzdWS35KAo21r9R4BuFCkLer6.jpg" alt="Pulp Fiction" class="poster">
+                    <img src="https://image.tmdb.org/t/p/w300/uC6TTUhPpQCmgldGyYveKRAu8JN.jpg" alt="Spirited Away" class="poster">
+                    <img src="https://image.tmdb.org/t/p/w300/xBKGJQsAIeweesB79KC89FpBrVr.jpg" alt="The Dark Knight" class="poster">
+                </div>
+            </div>
+        </section>
+
+        <!-- User Input Form -->
+        <section class="user-form">
+            <div class="form-container">
+                <h3>Tell Us About Yourself</h3>
+                <form id="movieForm">
+                    <div class="input-group">
+                        <label for="userName">Your Name:</label>
+                        <input type="text" id="userName" name="userName" placeholder="Enter your name" required>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label>Select Your Favorite Genres:</label>
+                        <div class="genre-grid">
+                            <label class="genre-option">
+                                <input type="checkbox" value="Action"> Action
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Adventure"> Adventure
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Comedy"> Comedy
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Drama"> Drama
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Horror"> Horror
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Romance"> Romance
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Sci-Fi"> Sci-Fi
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Thriller"> Thriller
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Animation"> Animation
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Fantasy"> Fantasy
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Crime"> Crime
+                            </label>
+                            <label class="genre-option">
+                                <input type="checkbox" value="Mystery"> Mystery
+                            </label>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Find My Movies! 🎭</button>
+                </form>
+            </div>
+        </section>
+
+        <!-- Recommendations Section -->
+        <section class="recommendations" id="recommendations" style="display: none;">
+            <div class="recommendations-container">
+                <h3 id="recommendationsTitle">Your Personalized Movie Recommendations</h3>
+                <div id="movieGrid" class="movie-grid">
+                    <!-- Movie recommendations will be populated here -->
+                </div>
+                <button id="getMoreMovies" class="more-btn">Get More Recommendations</button>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 MovieMatcher. Find your perfect movie experience!</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

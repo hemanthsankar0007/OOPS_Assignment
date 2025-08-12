@@ -1,0 +1,279 @@
+{
+  "movies": [
+    {
+      "title": "The Avengers",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "year": 2012,
+      "rating": 8.0,
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "streamingLinks": [
+        { "platform": "Disney+", "url": "https://www.disneyplus.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "genres": ["Drama", "Sci-Fi", "Thriller"],
+      "year": 2014,
+      "rating": 8.6,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Hulu", "url": "https://www.hulu.com" }
+      ]
+    },
+    {
+      "title": "The Dark Knight",
+      "genres": ["Action", "Crime", "Drama"],
+      "year": 2008,
+      "rating": 9.0,
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests.",
+      "streamingLinks": [
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "genres": ["Crime", "Drama"],
+      "year": 1994,
+      "rating": 8.9,
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Spirited Away",
+      "genres": ["Animation", "Adventure", "Fantasy"],
+      "year": 2001,
+      "rating": 9.3,
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits.",
+      "streamingLinks": [
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" },
+        { "platform": "Netflix", "url": "https://www.netflix.com" }
+      ]
+    },
+    {
+      "title": "Casablanca",
+      "genres": ["Drama", "Romance"],
+      "year": 1942,
+      "rating": 8.5,
+      "description": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.",
+      "streamingLinks": [
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Inception",
+      "genres": ["Action", "Sci-Fi", "Thriller"],
+      "year": 2010,
+      "rating": 8.8,
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into a CEO's mind.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Hulu", "url": "https://www.hulu.com" }
+      ]
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "genres": ["Drama"],
+      "year": 1994,
+      "rating": 9.3,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Parasite",
+      "genres": ["Comedy", "Drama", "Thriller"],
+      "year": 2019,
+      "rating": 8.6,
+      "description": "A poor family schemes to become employed by a wealthy family and infiltrates their household by posing as unrelated, highly qualified individuals.",
+      "streamingLinks": [
+        { "platform": "Hulu", "url": "https://www.hulu.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "The Godfather",
+      "genres": ["Crime", "Drama"],
+      "year": 1972,
+      "rating": 9.2,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "streamingLinks": [
+        { "platform": "Paramount+", "url": "https://www.paramountplus.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "year": 2015,
+      "rating": 8.1,
+      "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners.",
+      "streamingLinks": [
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" },
+        { "platform": "Netflix", "url": "https://www.netflix.com" }
+      ]
+    },
+    {
+      "title": "Get Out",
+      "genres": ["Horror", "Mystery", "Thriller"],
+      "year": 2017,
+      "rating": 7.7,
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness becomes a nightmare.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Hulu", "url": "https://www.hulu.com" }
+      ]
+    },
+    {
+      "title": "La La Land",
+      "genres": ["Comedy", "Drama", "Romance"],
+      "year": 2016,
+      "rating": 8.0,
+      "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "John Wick",
+      "genres": ["Action", "Crime", "Thriller"],
+      "year": 2014,
+      "rating": 7.4,
+      "description": "An ex-hit-man comes out of retirement to track down the gangsters that took everything from him.",
+      "streamingLinks": [
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Toy Story",
+      "genres": ["Animation", "Adventure", "Comedy"],
+      "year": 1995,
+      "rating": 8.3,
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "streamingLinks": [
+        { "platform": "Disney+", "url": "https://www.disneyplus.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Blade Runner 2049",
+      "genres": ["Drama", "Mystery", "Sci-Fi"],
+      "year": 2017,
+      "rating": 8.0,
+      "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" }
+      ]
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "genres": ["Adventure", "Comedy", "Crime"],
+      "year": 2014,
+      "rating": 8.1,
+      "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy.",
+      "streamingLinks": [
+        { "platform": "Disney+", "url": "https://www.disneyplus.com" },
+        { "platform": "Hulu", "url": "https://www.hulu.com" }
+      ]
+    },
+    {
+      "title": "A Quiet Place",
+      "genres": ["Drama", "Horror", "Sci-Fi"],
+      "year": 2018,
+      "rating": 7.5,
+      "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+      "streamingLinks": [
+        { "platform": "Paramount+", "url": "https://www.paramountplus.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "genres": ["Animation", "Action", "Adventure"],
+      "year": 2018,
+      "rating": 8.4,
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "The Social Network",
+      "genres": ["Biography", "Drama"],
+      "year": 2010,
+      "rating": 7.7,
+      "description": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Hulu", "url": "https://www.hulu.com" }
+      ]
+    },
+    {
+      "title": "Moonlight",
+      "genres": ["Drama"],
+      "year": 2016,
+      "rating": 7.4,
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "Hereditary",
+      "genres": ["Drama", "Horror", "Mystery"],
+      "year": 2018,
+      "rating": 7.3,
+      "description": "A grieving family is haunted by tragedy and disturbing secrets.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    },
+    {
+      "title": "The Princess Bride",
+      "genres": ["Adventure", "Comedy", "Fantasy"],
+      "year": 1987,
+      "rating": 8.0,
+      "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+      "streamingLinks": [
+        { "platform": "Disney+", "url": "https://www.disneyplus.com" },
+        { "platform": "Hulu", "url": "https://www.hulu.com" }
+      ]
+    },
+    {
+      "title": "Goodfellas",
+      "genres": ["Biography", "Crime", "Drama"],
+      "year": 1990,
+      "rating": 8.7,
+      "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners.",
+      "streamingLinks": [
+        { "platform": "Netflix", "url": "https://www.netflix.com" },
+        { "platform": "HBO Max", "url": "https://www.hbomax.com" }
+      ]
+    },
+    {
+      "title": "Black Panther",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "year": 2018,
+      "rating": 7.3,
+      "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future.",
+      "streamingLinks": [
+        { "platform": "Disney+", "url": "https://www.disneyplus.com" },
+        { "platform": "Amazon Prime", "url": "https://www.amazon.com/prime" }
+      ]
+    }
+  ]
+}
